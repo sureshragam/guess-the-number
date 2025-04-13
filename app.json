@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "basicapp",
-    "slug": "basicapp",
+    "name": "Guess The Number",
+    "slug": "guess-the-number",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "backgroundColor":"black",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
